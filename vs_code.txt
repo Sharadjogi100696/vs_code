@@ -1,0 +1,13 @@
+VS Code Tricks:
+
+Zen Mode: 
+	Cmd + K….Z
+ 
+F2 to rename each variable name
+
+F8 to show error
+
+Use extract function by clicking on the bulb if u want to modularise your code 
+
+Paste JSON as types
+https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype&ssr=false#overview
